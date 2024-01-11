@@ -5,7 +5,7 @@ Crack the 4-letter password
 In this activity, you will learn to break the four character password protected zip file.
 
 
-<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10961915/sa1.gif" width = "50%" height = "auto">
+<img src= "https://s3.amazonaws.com/media-p.slid.es/uploads/1525749/images/10961915/sa1.gif" width = "100%" height = "auto">
 
 
 Follow the given steps to complete this activity:
